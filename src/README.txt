@@ -1,6 +1,5 @@
 CYBR372 Assignment 1
-Joshua Cook-Harding
-300450882
+Joshua Cook
 
 Completed Sections for this assignment:
 Part 1
